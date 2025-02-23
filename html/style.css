@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.aop-container {
+    position: absolute;
+    bottom: 10%;
+    left: 50%;
+    transform: translateX(-50%);
+    background: rgba(0, 0, 0, 0.7);
+    padding: 15px 30px;
+    border-radius: 10px;
+    color: white;
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.peacetime {
+    margin-top: 5px;
+    font-weight: bold;
+}
+
+.enabled {
+    color: limegreen;
+}
+
+.disabled {
+    color: red;
+}
