@@ -10,3 +10,5 @@ UI Display:
 
 A simple NUI-based interface built with HTML, CSS, and JavaScript, positioned at the bottom center of the screen.
 Real-time updates are sent from the server/client scripts to the UI.   
+
+https://cdn.discordapp.com/attachments/1337361785744785421/1340351703408447619/image.png?ex=67bbee8c&is=67ba9d0c&hm=66e01d4ab139694baa20ce06b3621c02a116480192119a2831e62ac69a2d21cc&
